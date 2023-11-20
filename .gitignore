@@ -1,3 +1,9 @@
+# catdog
+**/data/.archive
+**/data/repo/*
+**/data/train/*
+**/data/val/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
